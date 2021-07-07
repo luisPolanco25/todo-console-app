@@ -14,7 +14,7 @@ It will appear the following menu:
 
 ![Preview for the first menu that appears in the app](./usage-images/first-menu.PNG)
 
-Use arrow keys or the options's number to move though then, then select what you'd like to do by pressing ENTER.
+Use arrow keys or the options's number to move though them, then select what you'd like to do by pressing ENTER.
 
 ## Options
 
